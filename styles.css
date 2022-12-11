@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+ 
+blockquote {
+    background: #fffbfb;
+    border-left: 10px solid green;
+    margin: 1.5em 10px ;
+    padding: .2em 17px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
